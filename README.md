@@ -3,4 +3,3 @@
 
 - 📫 How to reach me **luyx@stu.pku.edu.cn / yxlu0613@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuxinglu613&show_icons=true&locale=en" alt="yuxinglu613" /></p>
